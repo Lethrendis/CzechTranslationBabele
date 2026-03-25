@@ -1,0 +1,22 @@
+{
+  "BABELE.CompendiumTranslations": " Překlad",
+  "BABELE.TranslateActorHeadBtn": "Přeložit",
+  "BABELE.TranslateActorTitle": "Přeložit aktéra",
+  "BABELE.TranslateActorHint": "Automaticky přeloží všechny vlastněné položky aktéra, pro které existuje překladové kompendium.",
+  "BABELE.TranslateActorBtn": "Přeložit!",
+  "BABELE.ExportTranslationTitle": "Exportovat překladový soubor",
+  "BABELE.ExportTranslationBtn": "Exportovat!",
+  "BABELE.ExportTranslationNotes": "Vyber formát pro exportovaný překladový soubor. Zvol \"Legacy\" pro originální nativní formát, nebo \"Compatible\", pokud chceš správu překladu provádět přes externí lokalizační platformu (např. Weblate, Transifex atd.).",
+  "BABELE.ExportTranslationFormat": "Formát",
+  "BABELE.ExportTranslationFormatLegacy": "Legacy",
+  "BABELE.ExportTranslationFormatCompatible": "Compatible",
+  "BABELE.TranslationDirTitle": "Adresář souborů s překlady",
+  "BABELE.TranslationDirHint": "Složka, ve které jsou umístěné překladové kompendia.",
+  "BABELE.EnableTranslationExportTile": "Povolit export překladu?",
+  "BABELE.EnableTranslationExportHint": "Zaškrtni, pokud chceš u každého kompendia přidat tlačítko pro vytvoření překladového souboru. Je to užitečné jako počáteční šablona.",
+  "BABELE.ShowOriginalName": "Zobrazovat původní názvy?",
+  "BABELE.ShowOriginalNameHint": "Po zaškrtnutí budou zobrazovány nepřeložené názvy položek kompendií vedle přeložených. Umožní to pak ve vyhledávacích polích filtrovat podle originálního názvu spolu s přeloženým.",
+  "BABELE.ShowTranslateOption": "Zobrazit možnost překladu?",
+  "BABELE.ShowTranslateOptionHint": "Zaškrtnutí přepne možnost překladu na denících postav.",
+  "BABELE.requireLibWrapperMessage": "Babele vyžaduje modul 'libWrapper'. Prosíme o nainstalování a aktivaci."
+}
